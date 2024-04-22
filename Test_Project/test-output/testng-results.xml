@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-18T23:43:45 GMT-04:00" name="Suite" finished-at="2024-04-18T23:43:45 GMT-04:00" duration-ms="113">
+    <groups>
+      <group name="negative">
+        <method signature="ApplicationFlow.negativeTest()[pri:0, instance:introduction.ApplicationFlow@2c1b194a]" name="negativeTest" class="introduction.ApplicationFlow"/>
+      </group> <!-- negative -->
+    </groups>
+    <test started-at="2024-04-18T23:43:45 GMT-04:00" name="Test" finished-at="2024-04-18T23:43:45 GMT-04:00" duration-ms="113">
+      <class name="introduction.ApplicationFlow">
+        <test-method signature="negativeTest()[pri:0, instance:introduction.ApplicationFlow@2c1b194a]" started-at="2024-04-18T23:43:45 GMT-04:00" name="negativeTest" finished-at="2024-04-18T23:43:45 GMT-04:00" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- negativeTest -->
+      </class> <!-- introduction.ApplicationFlow -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
